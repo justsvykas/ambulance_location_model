@@ -11,5 +11,5 @@ Our work is outlined as follows:
 - Predicted ambulance response times while varying time and week-day
 - Analysed data and arrived at conclusion where extra ambulance station would decrease response time most
 
-Important to say that the conclusions has biases due to the nature of data. Such as population density is not equal to address density etc
+Important to say that the conclusions has biases due to the nature of data. Such as population density is not equal to address density
 
